@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Glucose.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Nightscout.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4421CAB420912BB00056D841</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4421CAC820912BB60056D841</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4421CAD320912BB60056D841</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4421CAEA20912D190056D841</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4421CAF320912D190056D841</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
