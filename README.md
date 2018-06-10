@@ -8,9 +8,9 @@
 * Xcode and an Apple Developer account to digitally sign and run the app.  
 
 # Setup
-* Note: your Nightscout website URL takes this format, "https://YOURSITENAME.domain.com/api/v1/entries.json", located in Glucose\IntentHandler.swift (modify accordingly).
+* Note: your Nightscout website URL takes this format, "https://YOURSITENAME.herokuapp.com/api/v1/entries.json", located in Glucose\IntentHandler.swift (modify accordingly).
 * Deploy the app from Xcode to an iOS device.
-* Launch the app, acknowledge the prompt to enable Siri permissions, activate Siri and speak the following, "Show my nightscout code".
+* Launch the app, acknowledge the prompt to enable Siri permissions, activate Siri and speak the following, "Show my nightscout code."
 * Enjoy!
 
 # Demo
